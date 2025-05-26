@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesDe7", "MultiplesDe7.csproj", "{F6C5D00A-2845-BCBF-46E5-71A4629DE5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C5D00A-2845-BCBF-46E5-71A4629DE5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C5D00A-2845-BCBF-46E5-71A4629DE5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C5D00A-2845-BCBF-46E5-71A4629DE5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C5D00A-2845-BCBF-46E5-71A4629DE5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB17A887-DE49-429B-B880-62C6208FA615}
+	EndGlobalSection
+EndGlobal
