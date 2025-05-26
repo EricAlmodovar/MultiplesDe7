@@ -41,3 +41,4 @@ internal class Metodes
 }
 
 // Un altre missatge creat al VS Code 
+// Altre Missatge creat al GitHub
