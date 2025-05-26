@@ -39,3 +39,5 @@ internal class Metodes
         return multiples;
     }
 }
+
+// Altre Missatge creat al GitHub
