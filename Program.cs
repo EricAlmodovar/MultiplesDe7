@@ -39,3 +39,5 @@ internal class Metodes
         return multiples;
     }
 }
+
+// Un altre missatge creat al VS Code 
