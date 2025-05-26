@@ -16,7 +16,7 @@
 
         Console.WriteLine("Els múltiples de 7 més petits que " + limit + " són:");
         Console.WriteLine(string.Join(", ", multiples));
-        Console.WriteLine("Hi han " + multiples.Count + " nombres múltiples de 7 més petits que " + limit + "."); // hola
+        Console.WriteLine("Hi han " + multiples.Count + " nombres múltiples de 7 més petits que " + limit + "."); // missatge nou!!
     }
 }
 
