@@ -1,5 +1,6 @@
 ﻿internal class Program
 {
+    //Missatge creat al VS Code
     private static void Main(string[] args)
     {
         Console.Write("Introdueix un valor límit: ");
