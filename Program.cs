@@ -3,6 +3,7 @@
     //Missatge creat al VS Code
     private static void Main(string[] args)
     {
+        //Missatge creat des de GitHub
         Console.Write("Introdueix un valor límit: ");
         string? input = Console.ReadLine();
         int limit = 0;
